@@ -2,6 +2,8 @@
 
 <img src="https://i.imgur.com/RvwHNfS.png" width="60%"></img>
 
+
+
 #### Written by TMRSWRR 
 #### Version 1.0.0
 All in one tools for **XSS PAYLOAD GENERATOR -XSS SCANNER-XSS DORK FINDER**
@@ -17,9 +19,15 @@ Instagram: [TMRSWRR](https://www.instagram.com/tmrswrr/)
 <img src="https://i.imgur.com/jmBmGH1.png" width="32%"></img>
 
 
+
+
+
 ## 👇 :love_letter:  How to use  :love_letter: 👇
 
 [![How to use](https://i.imgur.com/l44jOXW.png)](https://www.youtube.com/watch?v=ys_a5yx1hmY)
+
+
+
 
 ## 📒 Read Me 📒
 
@@ -27,6 +35,7 @@ Instagram: [TMRSWRR](https://www.instagram.com/tmrswrr/)
 * Select default payload tags from parameter or  write your payload
 * It makes xss inj. with Xss Scanner parameter
 * It finds vulnerable sites url with Xss Dork Finder parameter
+
 
 ##  :cd: Installation  :cd:
 ### Installation with requirements.txt
@@ -42,6 +51,7 @@ pip3 install -r requirements.txt
 ```bash
 python3 payloader.py
 ```
+
 
 ## 🗃️  Features  🗃️
 
@@ -150,5 +160,7 @@ https://github.com/capture0x/XSS-LOADER-for-WINDOWS
 ## Bugs and enhancements
 
 For bug reports or enhancements, please open an [issue](https://github.com/capture0x/XSS-LOADER/issues) here.
+
+
 
 **Copyright 2020**
